@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+RUPTURE.egg-info/PKG-INFO
+RUPTURE.egg-info/SOURCES.txt
+RUPTURE.egg-info/dependency_links.txt
+RUPTURE.egg-info/top_level.txt

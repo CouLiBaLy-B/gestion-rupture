@@ -1,0 +1,15 @@
+streamlit==1.40.2
+streamlit_extras
+streamlit-pills
+nltk
+pandas
+numpy
+streamlit-pills
+pdfminer-six
+streamlit-aggrid
+reportlab
+hydralit
+scikit-learn
+python-dotenv
+werkzeug
+streamlit-authenticator
