@@ -9,4 +9,6 @@ reportlab==4.2.2
 hydralit==1.0.14
 python-dotenv
 werkzeug==3.0.3
+nltk
+scikit-learn
 streamlit-authenticator==0.3.2
